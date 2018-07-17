@@ -1,7 +1,6 @@
 let cacheName = "restaurants";
 let urlsToCache = [
     "./",
-    "./service_worker_register.js",
     "index.html",
     "restaurant.html",
     "css/styles.css",
